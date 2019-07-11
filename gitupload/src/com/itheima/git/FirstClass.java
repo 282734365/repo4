@@ -9,5 +9,13 @@ public class FirstClass {
     void id(){
         int id=0;
         id +=1;
+        id +=1;
+        id +=1;
+        id +=1;
+        id +=1;
+        id +=1;
+        System.out.println("1111111");
+        System.out.println("1111111");
+        System.out.println("1111111");
     }
 }
