@@ -6,4 +6,8 @@ public class FirstClass {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+    void id(){
+        int id=0;
+        id +=1;
+    }
 }
