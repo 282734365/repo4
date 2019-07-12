@@ -17,5 +17,10 @@ public class FirstClass {
         System.out.println("1111111");
         System.out.println("1111111");
         System.out.println("1111111");
+        System.out.println("3333333");
+        System.out.println("3333333");
+        System.out.println("3333333");
+        System.out.println("3333333");
+        System.out.println("3333333");
     }
 }
